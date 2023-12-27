@@ -1,4 +1,4 @@
-//ejercicio 3. b
+//ejercicio 3. b.
 
 const p = true;
 const q = true;
